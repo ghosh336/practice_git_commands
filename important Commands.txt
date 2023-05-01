@@ -1,0 +1,23 @@
+1. git init
+---> to create a local git repository in current directory
+
+
+2. git remote add origin  https://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@github.com/ghosh336/practice_git_commands.git
+---> To add link current local repository with remote repository from github 
+     https://<GIT Token>@github.com/<User Name>/<Remote Repo Name>.git
+
+3. touch -> to create file
+
+4. git add <File Name / * / .>
+   To add specific file or all files or directory
+
+5. git commit -m "Custome commit message"
+  To commit the changes to local repository
+
+6. git branch working_copy
+
+7. git checkout working_copy
+--> To create new branch and switch to it
+
+8. git push origin working_copy
+--> To commit the new branch to git remote repository 

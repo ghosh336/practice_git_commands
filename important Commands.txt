@@ -2,7 +2,7 @@
 ---> to create a local git repository in current directory
 
 
-2. git remote add origin  https://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@github.com/ghosh336/practice_git_commands.git
+2. git remote add origin  https://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@github.com/ghosh336/practice_git_commands.git
 ---> To add link current local repository with remote repository from github 
      https://<GIT Token>@github.com/<User Name>/<Remote Repo Name>.git
 

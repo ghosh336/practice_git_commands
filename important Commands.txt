@@ -8,11 +8,14 @@
 
 3. touch -> to create file
 
+3b. git status
+ --> to check the current status of the repo
+
 4. git add <File Name / * / .>
-   To add specific file or all files or directory
+   To add specific file or all files or directory to staging area
 
 5. git commit -m "Custome commit message"
-  To commit the changes to local repository
+  To commit the changes to local repository from statgin area
 
 6. git branch working_copy
 
@@ -21,3 +24,8 @@
 
 8. git push origin working_copy
 --> To commit the new branch to git remote repository 
+
+then create a pull request from github to do merge
+
+9. git pull origin master
+--> updating local coppy after merging the pull request :
